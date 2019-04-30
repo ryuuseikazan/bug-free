@@ -1,4 +1,4 @@
 # bug-free
 Hi there !
-My name is Eren and i'm new in GitHub,
-I am just try to understand this repository thing, u know.
+I'm Eren.While i am testing this repository thing it would be a good idea to introduce myself.I am a college student and coding is in my interest list.I think even if i'll not gonna work in department like IT,software etc. i have to know coding.Cuz if i don't know the potential of something i work with, i can't do my job well.
+Enough of this work etiquette, right? bye
